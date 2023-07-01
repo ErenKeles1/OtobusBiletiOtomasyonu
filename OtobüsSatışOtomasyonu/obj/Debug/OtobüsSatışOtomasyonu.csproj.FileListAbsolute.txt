@@ -1,0 +1,12 @@
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\bin\Debug\OtobüsSatışOtomasyonu.exe.config
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\bin\Debug\OtobüsSatışOtomasyonu.exe
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\bin\Debug\OtobüsSatışOtomasyonu.pdb
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.Form1.resources
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.KayitFormu.resources
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.Properties.Resources.resources
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.csproj.GenerateResource.cache
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.exe
+C:\Users\erenk\source\repos\OtobüsSatışOtomasyonu\OtobüsSatışOtomasyonu\obj\Debug\OtobüsSatışOtomasyonu.pdb
